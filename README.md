@@ -32,3 +32,10 @@ Alem das linguagens de programção tambem tenho fluência nativa em Português(
 - [ Sorvetes Vikings ] (www.sorvetesvikings.com) 🍨 <br/>
 - [ Euros < Dev > ] (www.eurosdev.com) 💻 <br/>
 
+
+
+
+</br>
+<p align="center"> Visistas a este Perfil:</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LordEurosJf/count.svg" /></p>
+
