@@ -8,7 +8,7 @@ Fique à vontade para explorar meus repositórios, acompanhar meu progresso e, c
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lordeuros)  
 <br/>
 <br/>
-![LordEuros's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordEurosJf&show_icons=true&theme=tokyonight)
+![LordEuros's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordEurosJf&show_icons=true&theme=ambient_gradient)
 <br/>
 
 ### Tecnologias do meu dia a dia:
