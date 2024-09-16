@@ -26,7 +26,7 @@ Alem das linguagens de programção tambem tenho fluência nativa em Português(
 <br/>
 
 
-### Meus Projetos Web Sites:
+### Meus Projetos Recentes de Web Sites:
 - [ Amar Cuidadores ] (www.amarcuidadores.com.br) 👴 <br/>
 - [ Farmacia Bom Jesus ] (www.farmaciabj.com.br) 💊 <br/>
 - [ Sorvetes Vikings ] (www.sorvetesvikings.com) 🍨 <br/>
