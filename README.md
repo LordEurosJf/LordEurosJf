@@ -39,3 +39,7 @@ Alem das linguagens de programção tambem tenho fluência nativa em Português(
 <p align="center"> Visistas a este Perfil:</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LordEurosJf/count.svg" /></p>
 
+
+Quer ter um perfil igual este? 
+- Eu te ensino: 
+
