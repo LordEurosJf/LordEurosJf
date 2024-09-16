@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso 
 </div>
 
 
-Alem das linguagens de programção tambem tenho fluência nativa em Português(BR)⚽, proficiência em Inglês (B2) 🗽 e Alemão (A2) 🏰, e estou atualmente aprendendo Libras 🙌. Sou apaixonado por aprender e explorar novas tecnologias.
+Alem das linguagens de programção tambem tenho fluência nativa em Português(BR)⚽, proficiência em Inglês (B2) e Alemão (A2) 🏰, e estou atualmente aprendendo Libras 🙌. Sou apaixonado por aprender e explorar novas tecnologias.
 <br/>
 <br/>
 
