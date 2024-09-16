@@ -20,6 +20,7 @@ Fique à vontade para explorar meus repositórios, acompanhar meu progresso e, c
 <img align="center" alt="WP" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> 
 <img align="center" alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/> 
 </div>
+<br>
 
 Além das linguagens de programação, também tenho fluência nativa em **Português (BR)** ⚽, proficiência em **Inglês (B2)** e **Alemão (A2)** 🏰, e estou atualmente aprendendo **Libras** 🙌. Sou apaixonado por aprender e explorar novas tecnologias.
 <br/>
