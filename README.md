@@ -28,7 +28,6 @@ Além das linguagens de programação, também tenho fluência nativa em **Portu
 <br/>
 
 ### Meus Projetos Recentes de Web Sites:
-- [Amar Cuidadores](https://www.amarcuidadores.com.br) 👴 <br/>
 - [Farmacia Bom Jesus](https://www.farmaciabj.com.br) 💊 <br/>
 - [Sorvetes Vikings](https://www.sorvetesvikings.com) 🍨 <br/>
 - [Euros < Dev >](https://www.eurosdev.com) 💻 <br/>
