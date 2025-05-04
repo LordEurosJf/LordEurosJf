@@ -27,10 +27,6 @@ Além das linguagens de programação, também tenho fluência nativa em **Portu
 <br/>
 <br/>
 
-### Meus Projetos Recentes de Web Sites:
-- [Farmacia Bom Jesus](https://www.farmaciabj.com.br) 💊 <br/>
-- [Sorvetes Vikings](https://www.sorvetesvikings.com) 🍨 <br/>
-- [Euros < Dev >](https://www.eurosdev.com) 💻 <br/>
 
 </br>
 <p align="center"> Visistas a este Perfil:</p>
