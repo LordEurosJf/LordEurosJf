@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ed, também conhecido como Euros. 👋
 
-Sou formado em **Administração e Gestão Financeira** pela PUC Minas e atualmente estou mergulhando no mundo da **Programação**, sempre em busca de novas tecnologias e aprendizados constantes. 🚀<br/>
+Sou formado em **Administração e Cursando Gestão Financeira** pela PUC Minas e atualmente estou mergulhando no mundo da **Programação e Analise de Dados**, sempre em busca de novas tecnologias e aprendizados constantes. 🚀<br/>
 Fique à vontade para explorar meus repositórios, acompanhar meu progresso e, claro, me conectar nas redes sociais! Vamos trocar ideias e aprender juntos! 😎<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edjuniorjf/) 
