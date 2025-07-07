@@ -28,11 +28,3 @@ Além das linguagens de programação, também tenho fluência nativa em **Portu
 <br/>
 
 
-</br>
-<p align="center"> Visistas a este Perfil:</p>
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/LordEurosJf/count.svg" /></p>
-
----
-
-Quer ter um perfil igual a este? 
-- Eu te ensino: [Aqui!](https://github.com/LordEurosJf/perfil_Personalizado)
